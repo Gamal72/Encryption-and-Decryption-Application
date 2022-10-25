@@ -1,15 +1,3 @@
-/*
-    FCAI – Programming 1 – 2022 - Assignment 2
-    Program Name: All_Ciphers.cpp
-    Program Description: An Encryption/Decryption Application
-    Last Modification Date: 24/03/2022
-    Author1 and ID and Group: Abdelrahman Gamal - 20210223 - A
-    Author2 and ID and Group: Nour Wael - 20210429 - A
-    Author3 and ID and Group: Rawan Younis - 20210524 - A
-    Purpose:It lets the user choose one of 10 ciphers then it
-    takes a message from the user and either encrypts or decrypts it according to his choice.
-*/
-
 #include<bits/stdc++.h>
 
 using namespace std;
